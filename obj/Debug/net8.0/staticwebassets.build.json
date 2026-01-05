@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "QF6Rfi8i3elP/g1BR3AT1JOUmgMdW+FrkPT42lP5Sms=",
+  "Source": "MicroservicesIntermediateStorage",
+  "BasePath": "_content/MicroservicesIntermediateStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MicroservicesIntermediateStorage\\wwwroot",
+      "Source": "MicroservicesIntermediateStorage",
+      "ContentRoot": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\",
+      "BasePath": "_content/MicroservicesIntermediateStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\index.html",
+      "SourceId": "MicroservicesIntermediateStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\",
+      "BasePath": "_content/MicroservicesIntermediateStorage",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jbatqt9noy",
+      "Integrity": "gejc/8LA8amEp9UbTpcRxHUyic+aoIaQHBs0e7eGoPQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gejc/8LA8amEp9UbTpcRxHUyic+aoIaQHBs0e7eGoPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:08:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gejc/8LA8amEp9UbTpcRxHUyic+aoIaQHBs0e7eGoPQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.jbatqt9noy.html",
+      "AssetFile": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gejc/8LA8amEp9UbTpcRxHUyic+aoIaQHBs0e7eGoPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:08:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jbatqt9noy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gejc/8LA8amEp9UbTpcRxHUyic+aoIaQHBs0e7eGoPQ="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.AccountController",
+    "Method": "GetAccount",
+    "RelativePath": "api/accounts/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.AccountController",
+    "Method": "UpdateBalance",
+    "RelativePath": "api/accounts/{accountId}/update-balance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/accounts/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "MicroservicesIntermediateStorage.Models.Account",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.NotificationController",
+    "Method": "GetNotification",
+    "RelativePath": "api/notifications/{notificationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notificationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.NotificationController",
+    "Method": "GetNotificationsForAccount",
+    "RelativePath": "api/notifications/account/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.NotificationController",
+    "Method": "SendNotification",
+    "RelativePath": "api/notifications/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notification",
+        "Type": "MicroservicesIntermediateStorage.Models.Notification",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.TransactionController",
+    "Method": "GetTransaction",
+    "RelativePath": "api/transactions/{transactionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.TransactionController",
+    "Method": "GetTransactionsForAccount",
+    "RelativePath": "api/transactions/account/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesIntermediateStorage.Controllers.TransactionController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/transactions/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "MicroservicesIntermediateStorage.Models.Transaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

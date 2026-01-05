@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MicroservicesIntermediateStorage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MicroservicesIntermediateStorage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MicroservicesIntermediateStorage.props",
+      "PackagePath": "build\\MicroservicesIntermediateStorage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MicroservicesIntermediateStorage.props",
+      "PackagePath": "buildMultiTargeting\\MicroservicesIntermediateStorage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MicroservicesIntermediateStorage.props",
+      "PackagePath": "buildTransitive\\MicroservicesIntermediateStorage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

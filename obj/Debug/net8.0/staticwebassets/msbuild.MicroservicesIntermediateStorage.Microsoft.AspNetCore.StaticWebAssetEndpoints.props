@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MicroservicesIntermediateStorage/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gejc/8LA8amEp9UbTpcRxHUyic\u002BaoIaQHBs0e7eGoPQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"387"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gejc/8LA8amEp9UbTpcRxHUyic\u002BaoIaQHBs0e7eGoPQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 12:08:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MicroservicesIntermediateStorage/index.jbatqt9noy.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jbatqt9noy"},{"Name":"integrity","Value":"sha256-gejc/8LA8amEp9UbTpcRxHUyic\u002BaoIaQHBs0e7eGoPQ="},{"Name":"label","Value":"_content/MicroservicesIntermediateStorage/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"387"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gejc/8LA8amEp9UbTpcRxHUyic\u002BaoIaQHBs0e7eGoPQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 12:08:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

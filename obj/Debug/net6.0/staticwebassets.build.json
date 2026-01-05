@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Lokqb9Zd3IPM544LHs771xsqy6a9dIRGc/2G+o4H6P8=",
+  "Source": "MicroservicesIntermediateStorage",
+  "BasePath": "_content/MicroservicesIntermediateStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

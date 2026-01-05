@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\events\\accountcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:events\\accountcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\intermediatestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\intermediatestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\iintermediatestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\iintermediatestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:models\\dataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\events\\notificationsentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:events\\notificationsentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\events\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:events\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|c:\\users\\sanja\\desktop\\microservicesintermediatestorage\\data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14034E39-71AB-1482-00F3-59E00FD18EBB}|MicroservicesIntermediateStorage.csproj|solutionrelative:data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\AccountCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\AccountCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\AccountCreatedEvent.cs",
+              "RelativeToolTip": "Events\\AccountCreatedEvent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:45:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntermediateStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IntermediateStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\IntermediateStorageService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IntermediateStorageService.cs",
+              "RelativeToolTip": "Services\\IntermediateStorageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:45:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:30:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:45:27.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIntermediateStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IIntermediateStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\IIntermediateStorageService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IIntermediateStorageService.cs",
+              "RelativeToolTip": "Services\\IIntermediateStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:45:09.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T11:46:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Models\\DataItem.cs",
+              "RelativeDocumentMoniker": "Models\\DataItem.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Models\\DataItem.cs",
+              "RelativeToolTip": "Models\\DataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\TransactionCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\TransactionCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\TransactionCreatedEvent.cs",
+              "RelativeToolTip": "Events\\TransactionCreatedEvent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationSentEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\NotificationSentEvent.cs",
+              "RelativeDocumentMoniker": "Events\\NotificationSentEvent.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\NotificationSentEvent.cs",
+              "RelativeToolTip": "Events\\NotificationSentEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventStore.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\EventStore.cs",
+              "RelativeDocumentMoniker": "Events\\EventStore.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\EventStore.cs",
+              "RelativeToolTip": "Events\\EventStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:43:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "Events\\IEvent.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Events\\IEvent.cs",
+              "RelativeToolTip": "Events\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:43:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BankingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Data\\BankingDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BankingDbContext.cs",
+              "ToolTip": "C:\\Users\\Sanja\\Desktop\\MicroservicesIntermediateStorage\\Data\\BankingDbContext.cs",
+              "RelativeToolTip": "Data\\BankingDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:43:22.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
